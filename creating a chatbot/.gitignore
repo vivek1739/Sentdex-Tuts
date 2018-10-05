@@ -79,8 +79,6 @@ target/
 # exclude data from source control by default
 /data/
 ./data/
-/"creating a chatbot"/data/
-./"creating a chatbot"/data/
 /"10. Kaggle-Credit Card fraud detect"/data
 /"9. Kaggle-Haberman's Survival"/data
 
